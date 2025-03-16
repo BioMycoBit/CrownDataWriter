@@ -2,3 +2,4 @@ neurosity
 python-dotenv
 numpy
 pandas
+matplotlib

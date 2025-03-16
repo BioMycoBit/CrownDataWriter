@@ -1,3 +1,5 @@
 .env
-neurosity_data.db
 venv/
+neurosity_data.db
+neurosity_data_sample.json
+neurosity_export.csv
