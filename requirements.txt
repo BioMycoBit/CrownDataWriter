@@ -1,0 +1,4 @@
+neurosity
+python-dotenv
+numpy
+pandas
